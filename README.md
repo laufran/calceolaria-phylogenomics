@@ -9,4 +9,4 @@ Files include:
 5. MrBayes phylogeny: `Calceolaria_MrBayes.tre`
 6. Draft annotations for each of the 13 *Calceolaria* species' plastomes in .gb format in the `Annotations` folder
 
-All contain the 13 focal *Calceolaria* species along with outgroup, *Haberlea rhodopensis* (Gesneriaceae).
+All tree files and the alignment contain the 13 focal *Calceolaria* species along with outgroup, *Haberlea rhodopensis* (Gesneriaceae).
