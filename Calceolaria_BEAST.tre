@@ -1,0 +1,4 @@
+#NEXUS
+begin trees;
+	tree tree_1 = [&R] (((((Filicaulis_luxurians:2.908758,Arachnoidea:2.908758):3.681144,Plectranthifolia:6.589902):0.22534,(Pedunculata:3.045455,((Meyeniana:2.287823,Lanigera:2.287823):0.197247,(Cana:2.091113,(Corymbosa:0.774658,Phaceliifolia:0.774658):1.316456):0.393957):0.560385):3.769787):7.135607,(Tenella:11.962969,(Boliviana:9.12541,(Mexicana:7.854322,Bicolor:7.854322):1.271088):2.83756):1.98788):57.293348,Haberlea:71.244197);
+end;
