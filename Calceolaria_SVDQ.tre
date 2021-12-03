@@ -1,0 +1,24 @@
+#NEXUS 
+
+Begin trees;  [Treefile saved Wed Apr  7 07:29:14 2021]
+[!
+>Data file = wholeptwrefalign.nex
+]
+	Translate
+		1 Bicolor,
+		2 Boliviana,
+		3 Mexicana,
+		4 Tenella,
+		5 Pedunculata,
+		6 Phaceliifolia,
+		7 Arachnoidea,
+		8 Filicaulis_luxurians,
+		9 Lanigera,
+		10 Cana,
+		11 Corymbosa,
+		12 Plectranthifolia,
+		13 Meyeniana,
+		14 Haberlea rhodopensis
+		;
+tree 'PAUP_1' = [&U] (1,(2,(4,((((5,((9,13)86,(10,11)91)100)100,6)100,((7,8)100,12)77)100,14)100)100)100,3)100;
+End;
